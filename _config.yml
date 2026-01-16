@@ -25,7 +25,7 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: ./assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
@@ -56,11 +56,11 @@ skills:
   - category: Embedded Systems
     tools:
     - C/C++
-    - STM32
-    - TI LaunchPad
+    - STM32 HAL
+    - TI TivaWare
     - Raspberry Pi
     - Keil μVision
-    - CANUAV
+    - Drone CAN
   - category: PCB Design
     tools:
     - Altium Designer
@@ -69,18 +69,18 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-# formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+  text: "#2d2d2d"
+  border: "#f8e2e2"
+  link: "#ff8fa3"
+  highlight: "#ff4d6d"
+  background: "#fff8f8"
+  light_background: "#fff5f6"
 
 # A few examples. 
 basic theme:
