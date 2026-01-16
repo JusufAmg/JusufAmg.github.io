@@ -1,16 +1,12 @@
 ---
 layout: post
 title: Sonos Teardown
-description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
+description: Participated in rapid development of a first-of-its-kind carrier drone, responsible for the system design, integration, and successful flight demonstration. The project was executed end-to-end within a six-month timeline, from concept definition to a functional prototype.
 skills: 
-  - drumel
-  - microprobing
-  - Electronics Teardown
-  - PCB analysis
-  - audio system design
+  - Prototyping
+  - Ardupilot
+  - Electronic Integration
+  - UAV Autonomous Mission
 
-main-image: /sonos.png
+main-image: /drone.png
 ---
-
-# This is another demo
-
