@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sonos Teardown
+title: Carrier-Ship Drone
 description: Participated in rapid development of a first-of-its-kind carrier drone, responsible for the system design, integration, and successful flight demonstration. The project was executed end-to-end within a six-month timeline, from concept definition to a functional prototype.
 skills: 
   - Prototyping
@@ -13,6 +13,6 @@ main-image: /drone.png
 ---
 
 ---
-### Embeed images
-{% include image-gallery.html images="drone2.jpeg" height="400" %} 
+### Additional images
+{% include image-gallery.html images="drone.png, drone2.jpeg" height="400" %}
 ---
