@@ -9,4 +9,10 @@ skills:
   - UAV Autonomous Mission
 
 main-image: /drone.png
+
+---
+
+---
+### Embeed images
+{% include image-gallery.html images="drone2.jpeg" height="400" %} 
 ---
