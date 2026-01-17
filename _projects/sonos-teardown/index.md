@@ -13,25 +13,19 @@ main-image: /drone.png
 ---
 
 ---
-#Specs:
+# Specs
   - 15-inch octacopter
   - useful payload 8Kh
   - 20 minutes flight time
   - Autonomously launching up to four smaller drones mid-air
 
 ---
-
----
 # Additional images
----
 {% include image-gallery.html images="drone.png, drone2.jpeg" height="400" %}
 {% include image-gallery.html images="drone3.png" height="400" %}
 
 ---
-
----
-Awards:
----
+# Awards
   - Teknofest-AFAD 2024: 4th place
   - Teknofest-TUBITAK 2025 : 6th place
 
