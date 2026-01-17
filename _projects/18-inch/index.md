@@ -1,27 +1,24 @@
 ---
 layout: post
-title: Carrier-Ship Drone
-description: Participated in rapid development of a first-of-its-kind carrier drone, responsible for the system design, integration, and successful flight demonstration. The project was executed end-to-end within a six-month timeline, from concept definition to a functional prototype.
-skills: 
-  - Prototyping
-  - Ardupilot
-  - Electronic Integration
-  - UAV Autonomous Mission
-
-main-image: /drone.png
+title: Cargo Drone Design
+description: I was responsible for the complete system engineering of a cargo drone platform, covering architecture, component selection, integration, tuning, and flight validation.
+Skills: 
+  - UAV system integration
+  - Propulsion system sizing
+  - Flight controller configuration and tuning
+  - Ground and flight testing
+main-image: /hex1.jpeg
 
 ---
 
 ---
 # Specs
-  - 15-inch octacopter
-  - useful payload 8Kh
-  - 20 minutes flight time
-  - Autonomously launching up to four smaller drones mid-air
-
+  - 18-inch octacopter
+  - useful payload 8 Kg
+  - 35 minutes flight time
 ---
 # Additional images
-{% include image-gallery.html images="drone.png, drone2.jpeg" height="400" %}
-{% include image-gallery.html images="drone3.png" height="400" %}
+{% include image-gallery.html images="hex1.jpeg, hex2.jpeg" height="400" %}
+{% include image-gallery.html images="hex3.jpeg , hex4.jpeg" height="400" %}
 
 ---
