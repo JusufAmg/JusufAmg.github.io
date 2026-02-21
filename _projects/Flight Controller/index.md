@@ -8,7 +8,7 @@ skills:
   - LORA protocol integration
   - Protoype assembly and validation
 
-main-image: /fc.jpeg
+main-image: /fc.jpg
 ---
 
 I architected the complete avionics stack and selected all onboard subsystems, including MCU, IMU, GPS, LoRa radio, SD storage, RTC, ELRS receiver, and servo outputs, defining the electrical interfaces and communication topology between devices.
