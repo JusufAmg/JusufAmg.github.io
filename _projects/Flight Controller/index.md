@@ -13,14 +13,13 @@ main-image: /fc.jpg
 
 I architected the complete avionics stack and selected all onboard subsystems, including MCU, IMU, GPS, LoRa radio, SD storage, RTC, ELRS receiver, and servo outputs, defining the electrical interfaces and communication topology between devices.
 
-I implemented all peripheral drivers at register level without vendor libraries, including the 10DoF IMU over I²C, SPI-based LoRa and SD card interfaces, and deterministic PWM generation using hardware timers for four control surfaces. I configured :contentReference[oaicite:0]{index=0} GPS modules to output UBX binary packets at controlled update rates and integrated CRSF telemetry for :contentReference[oaicite:1]{index=1}.
+I implemented all peripheral drivers at register level without vendor libraries, including the 10DoF IMU over I²C, SPI-based LoRa and SD card interfaces, and deterministic PWM generation using hardware timers for four control surfaces. I configured GPS module to output UBX binary packets at controlled update rates and integrated CRSF telemetry.
 
 I assembled and soldered the hardware, performed full system bring-up, validated bus integrity, and tested telemetry logging, sensor acquisition, and actuator control under real operating conditions. The platform executed stable control and logging on a fin-based ground rig.
 
 ---
 
 # Specs
-- :contentReference[oaicite:2]{index=2} MCU platform
 - 10DoF IMU (custom driver, no libraries)
 - LoRa telemetry link
 - SD card flight-data logging
