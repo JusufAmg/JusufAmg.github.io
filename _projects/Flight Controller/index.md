@@ -28,5 +28,7 @@ I assembled and soldered the hardware, performed full system bring-up, validated
 - 4× hardware-timer servo outputs
 - RTC-backed timestamping
 
+---
+
 {% include image-gallery.html images="image.png" height="400" %}
 
