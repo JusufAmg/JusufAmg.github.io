@@ -16,6 +16,7 @@ main-image: /x500.jpeg
 
 ---
 # Additional images
-{% include image-gallery.html images="x500_2.jpeg" %}
+{% include image-gallery.html images="x500_2.jpeg" height="300" %}
 {% include image-gallery.html images="AI_detection.png" %}
+
 ---
